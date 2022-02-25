@@ -20,3 +20,8 @@ function sum(p, q) {
     return x + y;
    }
    console.log(work(32));
+
+   let song = 'assubhu'
+   song = 'mawla ya '
+   console.log(song); 
+   
